@@ -62,7 +62,7 @@ sudo apt-get install libopencv-nonfree-dev
 
 I ll keep adding more as I can. In case I missed something, you can always:
 
-* [http://stackoverflow.com/questions/9742052/cmake-is-not-working-in-opencv-c-project] 
+* [http://stackoverflow.com/questions/9742052/cmake-is-not-working-in-opencv-c-project] (http://stackoverflow.com/questions/9742052/cmake-is-not-working-in-opencv-c-project)
 
 * http://stackoverflow.com/questions/27533203/how-do-i-use-sift-in-opencv-3-0-with-c	
 
